@@ -1,3 +1,10 @@
+- 👋 Hi, I’m @JavohirXoldorov (Javohir Xoldorov)
+- 👀 I’m interested in Web development (Php, Yii2, Java, Spring)
+- 🌱 I’m currently learning (Docker, Spring)
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me javohirxoldorov7@gmail.com, t.me/Xoldorov_Javohir
+
+
 
 <h2 align="center">GitHub Activity Graph</h2>
 <!-- https://github.com/JavohirXoldorov/github-readme-activity-graph -->
