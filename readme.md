@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development **(Php, Yii2, Java, Spring)**
 - 🌱 I’m currently learning **(Docker, Spring)**
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me **javohirxoldorov7@gmail.com** or **[t.me/Xoldorov_Javohir](https://t.me/Xoldorov_Javohir)**
+- 📫 How to reach me **javohirxoldorov7@gmail.com** or **[t.me/javohir_xoldorov](https://t.me/javohir_xoldorov)**
 
 
 
